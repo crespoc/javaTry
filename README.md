@@ -1,3 +1,3 @@
-# javaTruco
+# javaTrainee
 Java training
 
