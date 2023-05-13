@@ -43,7 +43,7 @@ public class Mavenproject16 {
         return numero;
     }
     /**
-     * Esta funcion sirve para calcular el numero mayor
+     * Esta funcion sirve para calcular el numero mayor!
      * @param numero1 es el primer numero ingresado
      * @param numero2
      * @param numero3 
