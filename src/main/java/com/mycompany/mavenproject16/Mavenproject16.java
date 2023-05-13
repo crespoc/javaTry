@@ -44,7 +44,7 @@ public class Mavenproject16 {
     }
     /**
      * Esta funcion sirve para calcular el numero mayor!
-     * @param numero1 es el primer numero ingresado!
+     * @param numero1 es el primer numero ingresado!!!
      * @param numero2
      * @param numero3 
      */
